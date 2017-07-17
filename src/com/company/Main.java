@@ -5,5 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("adsfasdf");
+        Book book1 = new Book();
+        System.out.println(book1.getNumber());
     }
 }
